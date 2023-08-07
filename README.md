@@ -1,2 +1,2 @@
 # readit
-Final PHP project inspired by Reddit primarily using AJAX
+Final PHP project inspired by Reddit using AJAX
